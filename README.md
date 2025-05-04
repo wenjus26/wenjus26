@@ -22,7 +22,7 @@
 
 ### 📦 Logistic Management System (Web)
 > Application de gestion de poids et containers pour la logistique  
-> `Flask + SQLite + PDF (WeasyPrint)`  
+> `Flask + SQLite + PDF (ReportLab)`  
 ➡️ Génération de rapports, formulaires CRUD, gestion des images, login utilisateur
 
 ---
