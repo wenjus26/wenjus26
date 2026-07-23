@@ -1,87 +1,286 @@
-# Salut, moi c’est Rejuste Wenoumi
+# 👋 Hi, I'm Rejuste Wenoumi
 
-**MIS Professional | Business Process Automation Specialist | Data & AI Developer | SAP ERP | Full-Stack Developer**
+### Information Systems Engineer • Full-Stack Python Developer • Solutions Architect • DevOps Engineer • AI & Data Specialist
 
----
+I design, build and deploy enterprise-grade information systems that help organizations **digitize operations, automate business processes, improve decision-making and scale efficiently**.
 
-## Ma mission  
-Automatiser les processus métier, valoriser les données et améliorer la performance organisationnelle grâce aux technologies de l'information.
+From business analysis to cloud deployment, I transform complex operational challenges into secure, scalable and high-performance digital solutions.
 
----
-
-## Mes expertises clés
-
-- **Business Intelligence** : Power BI, Excel avancé, Tableau  
-- **Data Science & Intelligence Artificielle** : Python, Machine Learning, Pandas, Scikit-learn  
-- **Développement Web & Mobile** : Flask, React, React Native (Expo), SQLite, PostgreSQL  
-- **ERP & Systèmes d'information** : SAP ERP, Management Information Systems (MIS)  
-- **Automatisation** : Power Automate, Excel VBA, API OpenAI (ChatGPT)
+🌍 **Portfolio:** https://www.rejustewenoumi.com
 
 ---
 
-## Projets récents
+# 🚀 About Me
 
-### Logistic Management System (Web)  
-Application de gestion logistique dédiée au suivi des poids et des conteneurs.  
-**Technologies** : Flask, SQLite, génération de rapports PDF  
+I am an Information Systems professional with expertise in designing enterprise software, business process automation, data management and cloud-native applications.
 
-**Fonctionnalités :**
-- Gestion complète (CRUD)  
-- Génération automatique de rapports  
-- Gestion des images  
-- Authentification utilisateur  
+My experience spans logistics, manufacturing, human resources, supply chain, project management, citizen services and digital transformation initiatives.
+
+I combine strong technical expertise with business understanding to deliver solutions that create measurable operational value.
 
 ---
 
-### Sales Weight Tracker (Mobile)  
-Application mobile pour le suivi des poids des camions en temps réel.  
-**Technologies** : React Native (Expo), Flask API  
+# 💼 Core Expertise
 
-**Fonctionnalités :**
-- Synchronisation avec le serveur  
-- Capture et gestion d’images  
-- Suivi en temps réel des données  
+### Enterprise Information Systems
+
+* Enterprise Architecture
+* Business Process Analysis
+* Digital Transformation
+* ERP Integration
+* Workflow Automation
+* Decision Support Systems
+* Management Information Systems (MIS)
+
+### Software Engineering
+
+* Python
+* Django
+* Flask
+* Django REST Framework
+* REST APIs
+* JavaScript
+* Bootstrap 5
+* HTML5
+* CSS3
+
+### Database Engineering
+
+* PostgreSQL
+* MySQL
+* SQLite
+* Database Design
+* Query Optimization
+* Data Modeling
+* Data Migration
+
+### Cloud & DevOps
+
+* Docker
+* Docker Compose
+* Nginx
+* Gunicorn
+* GitHub Actions
+* CI/CD
+* OVH Cloud
+* VPS Administration
+* Object Storage
+* Linux
+* SSL / Let's Encrypt
+
+### Data & Artificial Intelligence
+
+* Python
+* Pandas
+* Machine Learning
+* Power BI
+* Data Analytics
+* Predictive Analytics
+* OpenAI APIs
+* Business Intelligence
+
+### Enterprise Automation
+
+* Power Automate
+* PDF Automation
+* Excel Automation
+* Reporting
+* API Integration
+* Workflow Automation
 
 ---
 
-### Dashboard Power BI – Analyse des ventes  
-Tableau de bord interactif pour le suivi des performances commerciales et logistiques.  
-**Technologies** : Power BI, Excel  
+# 🏗 Featured Projects
 
-**Fonctionnalités :**
-- Visualisation des KPIs  
-- Filtres dynamiques  
-- Automatisation des rapports  
+## Industrial Information Systems
 
----
+### ZoneTrack
 
-### Assistant Excel basé sur l’IA  
-Solution d’automatisation de l’analyse de données intégrée à Excel.  
-**Technologies** : Python, API OpenAI, Excel  
+Enterprise platform designed to digitize and monitor industrial zone operations in real time.
 
-**Fonctionnalités :**
-- Génération automatique de résumés  
-- Analyse prédictive  
-- Classification intelligente des données  
+**Highlights**
+
+* Real-time operational monitoring
+* Centralized data management
+* Industrial reporting
+* Multi-user platform
+* Business workflow automation
+* Secure role-based access control
 
 ---
 
-## Apprentissage en cours
+### Supply Chain Management System
 
-- Microsoft Azure AI & Power Platform  
-- Développement mobile avancé (React Native avec Expo)  
-- Intégration et automatisation via les API SAP  
+Complete enterprise platform covering:
 
----
-
-## Me contacter
-
-- **LinkedIn** : https://www.linkedin.com/in/rejuste-wenoumi-53a003221/  
-- **Portfolio** : https://www.rejustewenoumi.com  
-- **GitHub** : https://github.com/wenjus26  
+* Procurement
+* Inventory
+* Logistics
+* Container Management
+* Shipment Tracking
+* Commercial Documentation
+* Payment Monitoring
 
 ---
 
-> "Le bon usage des systèmes d'information fait la force des entreprises modernes."
+### Production Management System
 
-**Basé à Cotonou | Ouvert aux opportunités internationales**
+Digitalization of soybean production processes including:
+
+* Production monitoring
+* Inventory management
+* Material traceability
+* Quality monitoring
+* Reporting dashboards
+
+---
+
+### Sales & Logistics Platform
+
+Enterprise application automating:
+
+* Quotations
+* Sales Orders
+* Invoice Generation
+* PDF Automation
+* Logistics Tracking
+* MIS Reporting
+* SAP-compatible exports
+
+---
+
+### Zenith Project Management
+
+Project management platform designed to improve planning, collaboration and project execution.
+
+---
+
+### SecureCity
+
+Smart visitor management and access control platform featuring:
+
+* QR Code Access
+* Visitor Registration
+* Resident Directory
+* Security Dashboard
+* Notifications
+* PWA Architecture
+
+---
+
+### eTalents HR Information System
+
+Human Resources Information System designed to manage:
+
+* Recruitment
+* Candidates
+* Skills
+* Training
+* Employee Profiles
+* Performance Monitoring
+
+---
+
+# 🌐 Websites & Digital Platforms
+
+* https://www.rejustewenoumi.com
+* https://connect-jeunes.org
+* https://pcc-benin.org
+* https://afrikedutech.org
+* Blue Green Engineering
+* Grow26
+
+---
+
+# 📊 Large-Scale Data Engineering
+
+## Data Migration
+
+Successfully led enterprise database migration projects including:
+
+* Migration of **768+ users** from MySQL to PostgreSQL
+* Zero data loss migration strategy
+* Data validation and integrity verification
+* Database optimization
+* ETL scripting using Python
+
+---
+
+## Enterprise Data Processing
+
+Processed and optimized more than:
+
+* **5,600+ operational records**
+* Business data cleansing
+* Data normalization
+* SQL optimization
+* Reporting automation
+
+---
+
+# ☁ DevOps Experience
+
+Production deployment using:
+
+* Docker
+* Docker Compose
+* Nginx
+* Gunicorn
+* PostgreSQL
+* OVH Cloud VPS
+* PythonAnywhere
+* GitHub Actions
+* CI/CD Pipelines
+* SSL Automation
+* Cloud Object Storage
+
+---
+
+# 📈 Business Impact
+
+My solutions help organizations:
+
+* Digitize paper-based operations
+* Reduce manual workloads
+* Improve operational efficiency
+* Increase data reliability
+* Enhance decision-making
+* Automate reporting
+* Strengthen process traceability
+* Support business growth
+
+---
+
+# 🎓 Continuous Learning
+
+Currently expanding my expertise in:
+
+* Artificial Intelligence
+* Cloud Architecture
+* Enterprise Software Architecture
+* Advanced DevOps
+* Cybersecurity
+* Distributed Systems
+
+---
+
+# 📫 Let's Connect
+
+🌐 Portfolio
+https://www.rejustewenoumi.com
+
+💼 LinkedIn
+https://www.linkedin.com/in/rejuste-wenoumi-53a003221/
+
+💻 GitHub
+https://github.com/wenjus26
+
+---
+
+## 💬 Personal Motto
+
+> *"Technology creates value only when it simplifies complexity and empowers people."*
+
+---
+
+⭐ **Open to international opportunities, enterprise consulting, software architecture, information systems engineering and digital transformation projects.**
