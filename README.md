@@ -187,8 +187,8 @@ Human Resources Information System designed to manage:
 * https://connect-jeunes.org
 * https://pcc-benin.org
 * https://afrikedutech.org
-* Blue Green Engineering
-* Grow26
+* https://blueandgreeneng.com
+* https://grow26.com
 
 ---
 
