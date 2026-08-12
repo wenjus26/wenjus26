@@ -1,38 +1,51 @@
 # 👋 Hi, I'm Rejuste Wenoumi
 
-### Information Systems Engineer • Full-Stack Python Developer • Solutions Architect • DevOps Engineer • AI & Data Specialist
+### Information Systems Professional | Full-Stack Python Developer | DevOps | Data & AI
 
-I design, build and deploy enterprise-grade information systems that help organizations **digitize operations, automate business processes, improve decision-making and scale efficiently**.
+I build **information systems and digital solutions that connect technology with real business needs**.
 
-From business analysis to cloud deployment, I transform complex operational challenges into secure, scalable and high-performance digital solutions.
+My work sits at the intersection of **Information Systems, Finance, Logistics, Data, Software Development and Artificial Intelligence**.
 
-🌍 **Portfolio:** https://www.rejustewenoumi.com
+I enjoy turning complex operational problems into practical solutions — from understanding the business need and designing the system to developing, automating and deploying it in production.
 
----
-
-# 🚀 About Me
-
-I am an Information Systems professional with expertise in designing enterprise software, business process automation, data management and cloud-native applications.
-
-My experience spans logistics, manufacturing, human resources, supply chain, project management, citizen services and digital transformation initiatives.
-
-I combine strong technical expertise with business understanding to deliver solutions that create measurable operational value.
+🌍 Portfolio: https://www.rejustewenoumi.com
 
 ---
 
-# 💼 Core Expertise
+## 🚀 About Me
 
-### Enterprise Information Systems
+I am an **Information Systems professional** with hands-on experience in software development, business process automation, data management and infrastructure deployment.
 
-* Enterprise Architecture
-* Business Process Analysis
+Over the past few years, I have worked on solutions related to:
+
+* Logistics & Supply Chain
+* Finance & Business Processes
+* Manufacturing & Operations
+* Human Resources
+* Project Management
 * Digital Transformation
-* ERP Integration
-* Workflow Automation
-* Decision Support Systems
-* Management Information Systems (MIS)
+* Data & Business Intelligence
 
-### Software Engineering
+What interests me most is the connection between **business processes and technology**.
+
+I don't build software simply for the sake of building software. I try to understand the problem first, structure the information, design the right solution and make it useful for the people who will actually use it.
+
+---
+
+# 💡 What I Work On
+
+### Information Systems & Business
+
+* Management Information Systems (MIS)
+* Business Process Analysis
+* Enterprise Application Design
+* Digital Transformation
+* Workflow Automation
+* ERP & Business Systems Integration
+* Operational Reporting
+* Decision Support Systems
+
+### Software Development
 
 * Python
 * Django
@@ -40,247 +53,228 @@ I combine strong technical expertise with business understanding to deliver solu
 * Django REST Framework
 * REST APIs
 * JavaScript
+* HTML5 / CSS3
 * Bootstrap 5
-* HTML5
-* CSS3
 
-### Database Engineering
+### Data & Databases
 
 * PostgreSQL
 * MySQL
 * SQLite
-* Database Design
-* Query Optimization
 * Data Modeling
+* Database Design
 * Data Migration
+* Data Cleaning & Transformation
+* SQL Optimization
+* ETL with Python
+* Power BI
+* Data Analytics
 
-### Cloud & DevOps
+### DevOps & Infrastructure
 
 * Docker
 * Docker Compose
+* Linux / Ubuntu
 * Nginx
 * Gunicorn
 * GitHub Actions
 * CI/CD
-* OVH Cloud
 * VPS Administration
-* Object Storage
-* Linux
 * SSL / Let's Encrypt
+* Cloud Object Storage
+* OVH Cloud
 
-### Data & Artificial Intelligence
+### AI & Automation
 
-* Python
-* Pandas
-* Machine Learning
-* Power BI
-* Data Analytics
-* Predictive Analytics
+* Artificial Intelligence
+* AI-assisted business solutions
 * OpenAI APIs
-* Business Intelligence
+* Machine Learning
+* Predictive Analytics
+* Process Automation
+* Reporting Automation
+* Python-based automation
 
-### Enterprise Automation
-
-* Power Automate
-* PDF Automation
-* Excel Automation
-* Reporting
-* API Integration
-* Workflow Automation
+My interest in AI goes beyond using models as tools. I am particularly interested in **how AI can be integrated into information systems to improve analysis, automation and decision-making**.
 
 ---
 
-# 🏗 Featured Projects
+# 🏗️ Selected Projects
 
-## Industrial Information Systems
 
-### ZoneTrack
+## Zenith — Project Management Platform
 
-Enterprise platform designed to digitize and monitor industrial zone operations in real time.
-
-**Highlights**
-
-* Real-time operational monitoring
-* Centralized data management
-* Industrial reporting
-* Multi-user platform
-* Business workflow automation
-* Secure role-based access control
+A project management solution designed to support planning, coordination and monitoring of projects.
 
 ---
 
-### Supply Chain Management System
+## SecureCity
 
-Complete enterprise platform covering:
+A visitor management and access control platform focused on simplifying security and visitor operations.
 
-* Procurement
-* Inventory
-* Logistics
-* Container Management
-* Shipment Tracking
-* Commercial Documentation
-* Payment Monitoring
+### Features
 
----
-
-### Production Management System
-
-Digitalization of soybean production processes including:
-
-* Production monitoring
-* Inventory management
-* Material traceability
-* Quality monitoring
-* Reporting dashboards
-
----
-
-### Sales & Logistics Platform
-
-Enterprise application automating:
-
-* Quotations
-* Sales Orders
-* Invoice Generation
-* PDF Automation
-* Logistics Tracking
-* MIS Reporting
-* SAP-compatible exports
-
----
-
-### Zenith Project Management
-
-Project management platform designed to improve planning, collaboration and project execution.
-
----
-
-### SecureCity
-
-Smart visitor management and access control platform featuring:
-
-* QR Code Access
-* Visitor Registration
-* Resident Directory
-* Security Dashboard
+* QR Code access
+* Visitor registration
+* Resident directory
+* Security dashboard
 * Notifications
-* PWA Architecture
+* PWA architecture
 
 ---
 
-### eTalents HR Information System
+## eTalents — HR Information System
 
-Human Resources Information System designed to manage:
+An HR platform designed to centralize and manage recruitment and talent-related information.
+
+### Features
 
 * Recruitment
-* Candidates
-* Skills
+* Candidate management
+* Skills management
 * Training
-* Employee Profiles
-* Performance Monitoring
+* Employee profiles
+* Performance monitoring
 
 ---
 
-# 🌐 Websites & Digital Platforms
+# 📊 Data Engineering & Migration
 
-* https://www.rejustewenoumi.com
-* https://connect-jeunes.org
-* https://pcc-benin.org
-* https://afrikedutech.org
-* https://blueandgreeneng.com
-* https://grow26.com
+I have also worked on large-scale data processing and migration tasks.
 
----
+### Database Migration
 
-# 📊 Large-Scale Data Engineering
-
-## Data Migration
-
-Successfully led enterprise database migration projects including:
-
-* Migration of **768+ users** from MySQL to PostgreSQL
-* Zero data loss migration strategy
-* Data validation and integrity verification
+* Migrated **768+ users** from MySQL to PostgreSQL
+* Data validation and integrity checks
+* Data transformation and cleaning
+* Migration scripting with Python
 * Database optimization
-* ETL scripting using Python
 
----
+### Operational Data Processing
 
-## Enterprise Data Processing
+Processed and optimized **5,600+ operational records**, including:
 
-Processed and optimized more than:
-
-* **5,600+ operational records**
-* Business data cleansing
-* Data normalization
+* Data cleansing
+* Normalization
 * SQL optimization
+* Data validation
 * Reporting automation
 
 ---
 
-# ☁ DevOps Experience
+# ☁️ DevOps & Deployment
 
-Production deployment using:
+I work across the full lifecycle of an application:
 
-* Docker
-* Docker Compose
+**Development → Testing → CI/CD → Deployment → Monitoring → Improvement**
+
+My deployment environments include:
+
+* Docker & Docker Compose
+* Ubuntu VPS
 * Nginx
 * Gunicorn
 * PostgreSQL
-* OVH Cloud VPS
-* PythonAnywhere
+* MySQL
+* Redis
 * GitHub Actions
-* CI/CD Pipelines
-* SSL Automation
+* CI/CD pipelines
+* SSL certificates
 * Cloud Object Storage
+
+I currently manage containerized applications across **production and staging environments**, with automated deployment workflows and supporting infrastructure.
 
 ---
 
-# 📈 Business Impact
+# 📈 Business Value
 
-My solutions help organizations:
+The solutions I build are focused on practical business outcomes:
 
-* Digitize paper-based operations
-* Reduce manual workloads
-* Improve operational efficiency
-* Increase data reliability
-* Enhance decision-making
-* Automate reporting
-* Strengthen process traceability
-* Support business growth
+* Reducing manual work
+* Digitizing operational processes
+* Improving data quality
+* Increasing process visibility
+* Automating repetitive tasks
+* Improving reporting
+* Supporting better decision-making
+* Strengthening traceability
+* Making information easier to access
+
+For me, technology is most valuable when it **solves a real problem and creates measurable value**.
+
+---
+
+# 🤖 AI & Future Focus
+
+Artificial Intelligence is becoming an important part of how I approach information systems.
+
+I am particularly interested in:
+
+* AI for business process automation
+* AI-powered decision support
+* Predictive analytics
+* Intelligent reporting
+* Data-driven decision-making
+* AI integration into enterprise applications
+* AI strategy for organizations
+
+My goal is to understand not only **how to build AI solutions**, but also **where AI actually creates value within an organization**.
 
 ---
 
 # 🎓 Continuous Learning
 
-Currently expanding my expertise in:
+I continuously develop my skills in:
 
+* Information Systems Architecture
 * Artificial Intelligence
+* Data Engineering
 * Cloud Architecture
-* Enterprise Software Architecture
-* Advanced DevOps
+* DevOps
 * Cybersecurity
-* Distributed Systems
+* Enterprise Software Architecture
+* Business Intelligence
+* Digital Transformation
+
+I believe technology evolves quickly, so **continuous learning is part of the job**.
 
 ---
 
-# 📫 Let's Connect
+# 📊 GitHub Activity
 
-🌐 Portfolio
+**2,006 contributions in the last year.**
+
+For me, these contributions represent more than commits.
+
+They represent a year of:
+
+**Learning → Building → Debugging → Deploying → Improving**
+
+And there is still a lot more to build.
+
+---
+
+# 🌐 Connect With Me
+
+**Portfolio**
 https://www.rejustewenoumi.com
 
-💼 LinkedIn
+**LinkedIn**
 https://www.linkedin.com/in/rejuste-wenoumi-53a003221/
 
-💻 GitHub
+**GitHub**
 https://github.com/wenjus26
 
 ---
 
-## 💬 Personal Motto
+## 💬 My Approach
 
-> *"Technology creates value only when it simplifies complexity and empowers people."*
+> **Technology creates value when it makes complexity simpler, information more useful, and decisions better.**
 
 ---
 
-⭐ **Open to international opportunities, enterprise consulting, software architecture, information systems engineering and digital transformation projects.**
+### Open to opportunities
+
+I am interested in opportunities related to:
+
+**Information Systems • Digital Transformation • Software Engineering • Data • AI • DevOps • Business Process Automation • Technology Consulting**
